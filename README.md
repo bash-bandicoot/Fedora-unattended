@@ -1,1 +1,1 @@
-Fedora Internet-based thin ISO installation method
+100% working Fedora kickstart (network-based) method
